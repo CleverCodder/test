@@ -14,8 +14,6 @@ function App() {
     <Dinner dishName="Biryani" sweetDish="Jaleebi"></Dinner>
     <br/>
     <Dinner dishName="Karahi" sweetDish="Gajar Ka Halwa"></Dinner>
-    <br />
-    <Dinner dishName="Karahi" sweetDish="Gajar Ka Halwa"></Dinner>
     
     {/* <header className="App-header"> */}
     {/* <img src={logo} className="App-logo" alt="logo" />
