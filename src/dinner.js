@@ -4,7 +4,7 @@ function Dinner (props){
     return(
         <div>
         <h1>Today We are Serving {props.dishName}</h1>
-        <h2>Today We are Serving Karahi {props.sweetDish}</h2>
+        <h2>Today We is are Serving Karahi {props.sweetDish}</h2>
         </div>
         )
     }
